@@ -1,19 +1,20 @@
-Algoritmo "sal·rioebÙnus"
+Algoritmo "sal√°rioeb√¥nus"
 
 Var
 sa,pr,bo,prr,sf:real
 
 Inicio
-escreval ("entre com o sal·rio atual")
+escreval ("c√°lculo de sal√°rio")
+escreval ("entre com o sal√°rio atual")
 leia (sa)
 escreval ("entre com o percentual de reajuste")
 leia (pr)
-escreval ("entre com o bÙnus em reais do sal·rio")
+escreval ("entre com o b√¥nus em reais do sal√°rio")
 leia (bo)
 prr:=(sa*pr)
-escreval ("o percentual de reajuste em reais È", prr)
+escreval ("o percentual de reajuste em reais √©", prr)
 sf:=(prr+sa+bo)
-escreval ("o sal·rio final È", sf)
+escreval ("o sal√°rio final √©", sf)
 
 
 Fimalgoritmo
