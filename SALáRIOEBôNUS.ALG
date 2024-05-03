@@ -5,6 +5,7 @@ sa,pr,bo,prr,sf:real
 
 Inicio
 escreval ("cálculo de salário")
+escreval ("primeiro algoritmo")
 escreval ("entre com o salário atual")
 leia (sa)
 escreval ("entre com o percentual de reajuste")
